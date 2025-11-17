@@ -28,6 +28,12 @@ const projects = [
     live: "https://lnkd.in/g55kZn6s",
     git: "https://lnkd.in/gePyXRxa",
   },
+  {
+    name: "Movie Application",
+    desc: "An Movie website with custom filters and many more functionalities alike Netflix",
+    live: "https://movie-app-theta-sandy-94.vercel.app/",
+    git: "https://github.com/sri-vatsann/Movie-app-.git"
+  },
 ];
 
 const Projects = () => {
